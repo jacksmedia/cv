@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "RubikISO";
+  src: local("RubikISO"), url("./RubikIso-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+
 .App {
   text-align: center;
 }
@@ -17,6 +23,7 @@
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
+  font-family: "RubikISO";
   flex-direction: column;
   align-items: center;
   justify-content: center;

@@ -1,15 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <h1>Alexander Jacks</h1>
-        <h2><em>J4cks</em></h2>
+        <h2>
+          <em>
+            <a
+              className="App-link"
+              href="https://twitter.com/xJ4cks"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              My Twitter
+            </a>
+          </em>
+        </h2>
         <p>
-          Add some more stuff like banger CSS from eshib site, bro
+          This is my public landing page.
         </p>
         <a
           className="App-link"

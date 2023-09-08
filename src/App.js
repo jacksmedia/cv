@@ -4,7 +4,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <div class="main">
         <div class="text">
           <h1 class="vhs">Alexander Jacks</h1>
         </div>
@@ -19,9 +18,12 @@ function App() {
         </a>
         </div>
         <div class="text">
-          <p>
-            This is my public landing page.
-          </p>
+            This is my public landing page. <br/>See 
+            <a className="App-link"
+              href="https://jacks.media"
+              target="_blank"
+              rel="noopener noreferrer"> jacks.media
+            </a>, too!
         </div>
         <div class="text">
           <p>
@@ -36,7 +38,18 @@ function App() {
               </a>
             </em>
           </p>
-        </div>
+          <p>
+            <em>
+              <a
+                className="App-link"
+                href="https://tumblr.com/xJ4cks"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                My Tumblr
+              </a>
+            </em>
+          </p>
         </div>
       </header>
     </div>

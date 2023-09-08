@@ -3,10 +3,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header lines">
+      <header className="App-header">
       <div class="main">
-
-        <div class="time"><span id="time"></span></div>
         <div class="text">
           <h1 class="vhs">Alexander Jacks</h1>
         </div>
@@ -39,7 +37,6 @@ function App() {
             </em>
           </p>
         </div>
-        <div class="counter">REC <label id="minutes">00</label>:<label id="seconds">00</label></div>
         </div>
       </header>
     </div>

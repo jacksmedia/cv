@@ -42,7 +42,7 @@ function App() {
             <em>
               <a
                 className="App-link"
-                href="https://tumblr.com/xJ4cks"
+                href="https://www.tumblr.com/xj4cks"
                 target="_blank"
                 rel="noopener noreferrer"
               >

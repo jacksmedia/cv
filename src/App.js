@@ -50,6 +50,18 @@ function App() {
               </a>
             </em>
           </p>
+<p>
+            <em>
+              <a
+                className="App-link"
+                href="mailto:alex@j4cks.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Send me Email
+              </a>
+            </em>
+          </p>
         </div>
       </header>
     </div>

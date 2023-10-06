@@ -10,7 +10,7 @@ function App() {
         <div class="text">
         <a
           className="App-link"
-          href="https://stash23.s3.us-west-2.amazonaws.com/Resume23Q3.pdf"
+          href="https://stash23.s3.us-west-2.amazonaws.com/Resume23Q4.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -30,11 +30,11 @@ function App() {
             <em>
               <a
                 className="App-link"
-                href="https://twitter.com/xJ4cks"
+                href="https://www.instagram.com/xj4cks/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                My Twitter
+                My Insta
               </a>
             </em>
           </p>
